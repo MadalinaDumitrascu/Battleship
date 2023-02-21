@@ -38,19 +38,7 @@ Classes use public methods to communicate with outside code, and private methods
 
 Polymorphism is used wherever possible, to make the code as universal as possible and to avoid code duplication.
 
-
-  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-### What are you going to learn?  
+What are you going to learn?
 
 UML diagrams
 
@@ -70,7 +58,17 @@ S and O principles from SOLID
 
 namespaces in C#
 
-properties and get-only properties in C#  
+properties and get-only properties in C#
+  
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+  
 
 
 </td><td valign="top" width="50%">

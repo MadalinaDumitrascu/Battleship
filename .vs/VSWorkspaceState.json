@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Battleship",
+    "\\Battleship\\Controller",
+    "\\Battleship\\Model"
+  ],
+  "SelectedNode": "\\Battleship\\Controller\\Game.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -15,7 +15,16 @@ John Carmack,
 lead programmer of Doom (and more)
 
 In this project your job was to implement the Battleship game for two players and use the newly learned OOP practices.
+The game is played by 2 players. Each player gets to place his/hers ships:
+<img src="https://i.ibb.co/GT40Zzc/Screenshot-25.png" alt="Screenshot-25" border="0" />
 
+<img src="https://i.ibb.co/tpDV1vv/Screenshot-26.png" alt="Screenshot-26" border="0" />
+
+Then you have to try to shoot your opponent's ships and sink them!!!
+
+<img src="https://i.ibb.co/zQxCTd7/Screenshot-28.png" alt="Screenshot-28" border="0" />
+
+When you've sunk all the opponent's ships, you've won!!! Congrats!!! :)
 
 
 OOP - TARGET!!!

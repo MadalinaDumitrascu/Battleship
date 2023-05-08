@@ -18,6 +18,7 @@ namespace Battleship
                 if (game.IsWinning())
                 {
                     isGameon = false;
+                    blabla
                 }
             }
 

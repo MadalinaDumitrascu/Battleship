@@ -15,7 +15,7 @@ namespace Battleship
             while (isGameon)
             {
                 game.Round();
-                if (game.IsWinning())
+                if (game.())
                 {
                     isGameon = false;
                 }
